@@ -10,4 +10,8 @@ and adding the public token to the .env file
 - customizing map popup
 
 How to run it:
-- npm install @mapbox/mapbox-sdk
+
+- install node.js
+- install mongodb and run it in the background
+- npm init -y
+- npm install (to install all the dependencies at once)
